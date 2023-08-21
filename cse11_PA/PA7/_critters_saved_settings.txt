@@ -1,0 +1,15 @@
+#CSE 11 Critters saved settings
+#Tue Nov 22 22:04:02 PST 2022
+Turtle=false
+Feline=false
+Debug\ output=false
+Ocelot=false
+Liam_lmohler=true
+Elephant=false
+Lion=false
+Raccoon=true
+Height=60
+Number\ of\ each\ critter=100
+Leopard=false
+Starfish=false
+Width=50
